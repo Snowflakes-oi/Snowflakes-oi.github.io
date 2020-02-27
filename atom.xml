@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://snowflakes-oi.github.io/</id>
     <title>雪花飘飘的blog</title>
-    <updated>2020-02-27T11:59:56.056Z</updated>
+    <updated>2020-02-27T12:03:35.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://snowflakes-oi.github.io/"/>
     <link rel="self" href="https://snowflakes-oi.github.io/atom.xml"/>
@@ -108,6 +108,12 @@ int main()
 例2：表示任何所有奇数的集合。<br>
 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>E</mi><mo>=</mo><mo>{</mo><mi>x</mi><mtext> ⁣</mtext><mo>∈</mo><mtext> ⁣</mtext><mi>Z</mi><mi mathvariant="normal">∣</mi><mi>x</mi><mo>=</mo><mn>2</mn><mi>k</mi><mo>+</mo><mn>1</mn><mo separator="true">,</mo><mi>k</mi><mtext> ⁣</mtext><mo>∈</mo><mtext> ⁣</mtext><mi>Z</mi><mo>}</mo></mrow><annotation encoding="application/x-tex">E=\{x\!\in\!Z|x=2k+1, k\!\in\!Z\}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">E</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">{</span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mspace" style="margin-right:-0.16666666666666666em;"></span><span class="mrel">∈</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mspace" style="margin-right:-0.16666666666666666em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">Z</span><span class="mord">∣</span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.77777em;vertical-align:-0.08333em;"></span><span class="mord">2</span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord">1</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mspace" style="margin-right:-0.16666666666666666em;"></span><span class="mrel">∈</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mspace" style="margin-right:-0.16666666666666666em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">Z</span><span class="mclose">}</span></span></span></span><br>
 像这样用元素的共同特征表示的方法叫 <strong>描述法</strong>。</p>
+<h3 id="集合的特性">集合的特性</h3>
+<ul>
+<li>无序性：一个集合中，每个元素的地位都是相同的，元素之间是无序的。</li>
+<li>互异性：一个集合中，任何两个元素都认为是不相同的，即每个元素只能出现一次。</li>
+<li>确定性：给定一个集合，任给一个元素，该元素或者属于或者不属于该集合，二者必居其一，不允许有模棱两可的情况出现。</li>
+</ul>
 <h1 id="集合间的基本关系">集合间的基本关系</h1>
 <p>待更新</p>
 ]]></content>
